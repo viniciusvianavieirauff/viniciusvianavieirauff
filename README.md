@@ -24,4 +24,4 @@
 
 ###
 
- ![Snake animation](https://github.com/viniciusvianavieira/viniciusvianavieira/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/viniciusvianavieira/viniciusvianavieirauff/blob/output/github-contribution-grid-snake.svg)
