@@ -2,8 +2,8 @@
 
 <div align="">
   <a href="https://github.com/viniciusvianavieirauff">
-    <img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusvianavieirauff&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img width="57%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniciusvianavieirauff&theme=dracula&hide_border=false&&layout=compact"/>
+    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=viniciusvianavieirauff&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvianavieirauff&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>  
 
