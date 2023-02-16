@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello, my name is Vinicius, and welcome to my GitHub 😊
 
-<!--
-**viniciusvianavieirauff/viniciusvianavieirauff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="">
+  <a href="https://github.com/viniciusvianavieirauff">
+    <img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusvianavieirauff&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img width="57%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniciusvianavieirauff&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>  
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+	<img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+	<img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+	<img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />          
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusvianavieira/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusvianavieira/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSPQpLzJVttTrjrwqGPXHDzxxMshWpTXdwNrBQBXLhVJSTtDXNjsfnrcFcpRMmzsxZDq)
+
+###
+
+ ![Snake animation](https://github.com/viniciusvianavieirauff/viniciusvianavieirauff/blob/output/github-contribution-grid-snake.svg)
